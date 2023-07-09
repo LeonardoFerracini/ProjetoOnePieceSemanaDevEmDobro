@@ -47,7 +47,7 @@ body::before{
 }
 
 .selecao-de-personagens .personagens .titulo{
-    font-size: 30px;
+    font-size: 50px;
     letter-spacing: 0.3px;
     text-transform: uppercase;
     border-bottom: 2px solid #e8f575;
@@ -75,6 +75,7 @@ body::before{
 }
 
 .personagem-selecionado .nome-personagem{
+    font-size: 45px;
     border-bottom: 2px solid #e8f575;
     letter-spacing: 4px;
     text-transform: uppercase;
